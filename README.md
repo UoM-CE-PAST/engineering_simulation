@@ -1,23 +1,24 @@
-# Numerical methods example
+# Engineering SImulation
 
-This repo contains a simple numerical simulation example (1d wave equation - constant velocity) intended for teaching and demonstration purposes.
-There are two files:
+This repo contains a simple numerical simulation example (1D wave equation - constant velocity) intended for teaching numerical simulations for engineering.
+There are three notable files:
 
-- One file with gaps to be filled during a live demonstration.
-- A complete (no gaps) counterpart with a full solution.
+- One notebook (`class_content/example_with_gaps.ipynb`) with gaps to be filled during a live demonstration.
+- A filled-in counterpart (`complete_example.ipynb`) with a full solution.
+- The slides used during the class in pdf format (`class_content/engineering_simulation.pdf`).
 
 ## Authors
 
-### Maintainers
+### Maintainer
 
-- Kimiya Ramezani
 - Mohammed Alsubeihi
 
-### Contributors
+### Course Leader
 
 - Ashwin Kumar Rajagopalan
 
 ## Last Update
 
-- 25/26 (semester one) for Science of Formulation and Advanced Separation Processes.
+- 26/27 (semester) for Science of Formulation and Separations for a Cleaner World.
+- ~~25/26 (semester one) for Science of Formulation and Advanced Separation Processes.~~
 - ~~24/25 (First Semester) for Science of Formulation and Advanced Separation Processes.~~
