@@ -1,4 +1,4 @@
-# Engineering SImulation
+# Engineering Simulation
 
 This repo contains a simple numerical simulation example (1D wave equation - constant velocity) intended for teaching numerical simulations for engineering.
 There are three notable files:
